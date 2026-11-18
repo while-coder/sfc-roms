@@ -1,0 +1,131 @@
+{
+  "platform": "sfc",
+  "images": [
+    {
+      "name": "Astrohawk",
+      "rom_sha256": "2d4db708c842e23c299f0895f5cf1106429f69d2e10545c6d091e1020ff13dc3",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/astrohawk.png",
+      "file": "6d10ae3889a549165dba7ac0.png",
+      "downloaded": true,
+      "sha256": "86a559968067af4bc28c4442c7bf3bb331d449b429244578d5bc2b24e4775e9b",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/6d10ae3889a549165dba7ac0.png"
+    },
+    {
+      "name": "BLT",
+      "rom_sha256": "1f4004deb5981fa6115c1d3676add48d5437a3edb52a9203fbe14085fcb0b7ac",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/blt.png",
+      "file": "4198146d87e33d2c6086e9e1.png",
+      "downloaded": true,
+      "sha256": "20c87137871d37984f68eacfb23b125fb05b421e1750a6607b9240a6f7fe9929",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/4198146d87e33d2c6086e9e1.png"
+    },
+    {
+      "name": "Bucket",
+      "rom_sha256": "e65d491ca829210d4fa93938b235d1014359a56932f9e55b4543abf23c5ac343",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/bucket.png",
+      "file": "7e602caf2760d2d00c3a1198.png",
+      "downloaded": true,
+      "sha256": "61df77c783401cbc136615f83f54baf712cfbd7189cf578ef5fc02d7199e0448",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/7e602caf2760d2d00c3a1198.png"
+    },
+    {
+      "name": "Furry RPG",
+      "rom_sha256": "20d73987555f7baf7d342b2dd1edd61576faa590c1cc11bddc6a95ab96edb12a",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/furryrpg.png",
+      "file": "b705f63f5a4fe1025ff01e79.png",
+      "downloaded": true,
+      "sha256": "18193039df6f395eefb0349e4877cc706fe5218d3d8c30ff3579f512280fd120",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/b705f63f5a4fe1025ff01e79.png"
+    },
+    {
+      "name": "Hilda",
+      "rom_sha256": "bb783bd76eb7336d284506639e9167a4c190516ef93193bb2c83f95a806d36c8",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/hilda.png",
+      "file": "6f2fed4067d4d1d5ddbe7164.png",
+      "downloaded": true,
+      "sha256": "2b2d54b996f820429c6d137579942bcef78fd108a4204738f060ad5935b77c39",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/6f2fed4067d4d1d5ddbe7164.png"
+    },
+    {
+      "name": "Horizontal Shooter",
+      "rom_sha256": "3f6f83b5cb0be44dcd1a905cd57a2a8a1a77d320585d1894d0a02c84b33d6067",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/horizontal-shooter.png",
+      "file": "70d581e4b87312a63b8a96c6.png",
+      "downloaded": true,
+      "sha256": "9551aeeb2ca254e01302777dda7f8b11bdfc6bb048b88b32af92a655462ea022",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/70d581e4b87312a63b8a96c6.png"
+    },
+    {
+      "name": "Jet Pilot Rising",
+      "rom_sha256": "9b572edc8e9140fb5d86bf2e300fb0345a09eb5443c3547500d40b21f78034db",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/jetpilotrising.png",
+      "file": "73549dcba61743c5f3e3a5b2.png",
+      "downloaded": true,
+      "sha256": "54f4e6e89cc473510137ac7bc9659dd0e372c4c4a50710c487578d2d9a94948c",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/73549dcba61743c5f3e3a5b2.png"
+    },
+    {
+      "name": "MEGA FAMILY BROS",
+      "rom_sha256": "693b5c373e935339b29a071ba820fedbc0257996466fbb76aea0d095f628ecfd",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/megafamilybros.png",
+      "file": "1de6bc03ede69da4f8effe71.jpg",
+      "downloaded": true,
+      "sha256": "af9c334581bac1d69b85465001d7fcb89e510b6b95d4ff5e24d28d071806b13f",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/1de6bc03ede69da4f8effe71.jpg"
+    },
+    {
+      "name": "N-Warp Daisakusen",
+      "rom_sha256": "ee928ab95b7075d7c50b4fb01af35a62da3920bdd19b7ffd08686dca9cd54c82",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/nwarpdaisakusen.png",
+      "file": "36d68f6c35d8170e955d51b2.gif",
+      "downloaded": true,
+      "sha256": "90884e0a12344eb476e55c69b7610bfb08d7705336fb8296375906545bd1a629",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/36d68f6c35d8170e955d51b2.gif"
+    },
+    {
+      "name": "Uwol, Quest For Money",
+      "rom_sha256": "dde3159ee982715d7932a96344994b75798676f7df5411f3517eb0c3b6061e90",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/questformoney.png",
+      "file": "acf9cfac475c97768fea7e73.png",
+      "downloaded": true,
+      "sha256": "2f18d4c885cb6575c558ff193a4bb200d1e429bd735f11789ec260b33f51ae05",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/acf9cfac475c97768fea7e73.png"
+    },
+    {
+      "name": "Rockfall",
+      "rom_sha256": "00bb25ff9d54b2e6944ea90080d6fc6ca5a4651e496d79823fe808890a27b912",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/rockfall.png",
+      "file": "fed69fd453f1d59431cd4c65.png",
+      "downloaded": true,
+      "sha256": "8cc38c0bf81c36cd11be3ca0fb7b396aeb50723ef15f563ea09a7a1fbb189faf",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/fed69fd453f1d59431cd4c65.png"
+    },
+    {
+      "name": "Skipp And Friends: Unexpected Journey",
+      "rom_sha256": "f38d59703ab2a4ac32534a1579443ec75c18a4be23ac1331e8c3f30504b3153f",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/saf.png",
+      "file": "9bfd597e7f4d125d625cf367.png",
+      "downloaded": true,
+      "sha256": "ad6f7a1674d51595bb6671bc651b627a4218613d7d8690d3e9a2fa8fc332f4c5",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/9bfd597e7f4d125d625cf367.png"
+    },
+    {
+      "name": "Super Boss Gaiden",
+      "rom_sha256": "4cdb38a4309690fb60369fc865aade000e7e791b8f979612ae7fedc0c9127486",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/superbossgaiden.png",
+      "file": "b6ead04935701f53725eb5bf.jpg",
+      "downloaded": true,
+      "sha256": "f57de834f9a017e062deab96cff0dfedf91db3b3014c013b88ab831328e36d10",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/b6ead04935701f53725eb5bf.jpg"
+    },
+    {
+      "name": "Tchou 2",
+      "rom_sha256": "0a3992324d15f40aee38bf9e0adfbca32beac77a3bb3a84e580d25632717e272",
+      "source_url": "https://raw.githubusercontent.com/retrobrews/snes-games/2329cb432b4cad13aa6a9d2ad0699c771780b378/tchouv2.png",
+      "file": "5b0a8f89f54692f5ead961da.jpg",
+      "downloaded": true,
+      "sha256": "dafc39bf1c0df28de4858b443b4eee3d62694bd5426e037a5b8e014b6ac8e8af",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/sfc-roms/main/screenshots/5b0a8f89f54692f5ead961da.jpg"
+    }
+  ]
+}

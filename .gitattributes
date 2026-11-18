@@ -1,0 +1,3 @@
+roms/** -diff -text
+screenshots/* -diff -text
+screenshots/manifest.json text
